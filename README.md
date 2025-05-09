@@ -4,6 +4,9 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/om-patel-b62630266) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ompatel02904@gmail.com)
+### 📊 LeetCode Stats  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ompatel029?theme=dark&font=Source%20Code%20Pro&ext=heatmap)](https://leetcode.com/ompatel029)
+
 
 
 # 💻 Tech Stack:
