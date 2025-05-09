@@ -15,7 +15,7 @@ jobs:
       - name: Update LeetCode Stats
         uses: anuraghazra/github-readme-stats@master
         with:
-          username: OmPatel
+          username: ompatel029
           theme: dark
           card_width: 500
       
